@@ -30,3 +30,4 @@ const persona = {
 };
 
 persona.saludar();
+persona.despedir();
