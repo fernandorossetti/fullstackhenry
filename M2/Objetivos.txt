@@ -1,0 +1,9 @@
+1 - Desarrollar la sintaxis de arrow functions y descubrir sus casos de uso.
+
+2 - Aplicar la sintaxis de arrow function a la definición de callbacks y funciones sencillas.
+
+3 - Introducir los conceptos principales de la POO.
+
+4 - Comprender la manera en la que JavaScript maneja las clases a través de la cadena de prototipos.
+
+5 - Aplicar nuevas técnicas de Prompt Engineering con ChatGPT.
