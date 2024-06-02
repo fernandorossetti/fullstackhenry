@@ -1,0 +1,4 @@
+Comentar Código - Cmd + K + C
+Descomentar - Cmd + K + U
+Iniciar Quokka - Cmd + K + Q
+Detener Quokka - Cmd + K + S 
